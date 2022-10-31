@@ -1,4 +1,4 @@
-Greetings! it-tech-90 here with nothing of utter interest (yet).
+Greetings! it-tech-90 (Spencer Reed - the ORIGINAL one) here with nothing of utter interest (yet).
 Currently working as a ServiceNow Solutions Architect and looking to expand my knowledge in JavaScript.
 
 This account will house different repos for different things I'm doing to get better at JavaScript.
