@@ -9,9 +9,12 @@ In my code I'll try to keep consistency with updating comments to explain things
 I would like to be able to build apps (outside of ServiceNow) and explore more of what JavaScript can do.
 
 Professional Experience:
+  - College degrees: Associates in Network Administration; BS in Software Programming & Management (Didn't learn JS in this one, oddly enough)
+  - Interned at MTI School in networking department for a year
+  - Interned at small IT business for a year
   - Worked as a Help Desk technician for a few years
   - Worked as a Service Desk technician for a few years
-    - Promoted to Service Desk Supervisor for some years
+    - Promoted to Service Desk Supervisor for some years (became ServiceNow system admin)
   - Career change to SaaS Platform Engineer for a couple years
   - Contract as a ServiceNow Developer for a couple years
   - Currently working at VETS (Veteran Enhanced Technology Solutions) as a Solutions Architect for ServiceNow projects
