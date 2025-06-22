@@ -36,7 +36,7 @@
 </ul>
 
 
-<p> This portfolio will continue to grow as I complete more classes and projects </p>
+<p><i><b>NOTE:</b>This portfolio will continue to grow as I complete more classes and projects</i></p>
 
 
 <!---
