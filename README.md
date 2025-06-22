@@ -19,11 +19,12 @@
 <p>Projects utilize a variety of tools, including:</p>
 
 <ul>
-<li>Java & Python</li>
+<li>Java, Python, C++</li>
 <li>Git & GitHub</li>
 <li>SQL/MySQL</li>
 <li>Eclipse IDE</li>
 <li>Pycharm</li>
+<li>Visual Studio Code (VSC)</li>
 <li>REST APIs</li>
 <li>UML Diagrams</li>
 <li>Maven</li>
