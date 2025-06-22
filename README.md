@@ -1,4 +1,4 @@
-# 🎓 College Coursework Portfolio
+# 🎓📚 College Coursework Portfolio 💻🎮
 <p>Welcome to my GitHub portfolio for academic projects completed throughout my software development degree. This repository serves as a central hub for the various assignments, final projects, and learning experiments I've completed as part of my coursework and extra experience.</p>
 
 <p>Each project is organized in its own repository, with detailed READMEs explaining the scope, tools, and concepts explored.</p>
