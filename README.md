@@ -2,25 +2,25 @@
 <p>This collection includes work from the following courses:</p>
 
 <ul>
-<li>-<b>CS 230: Operating Systems</b> - Java-based web application design and evaluation</li>
-<li>-<b>CS 210: Programming Languages</b> - Object-oriented programming in C++</li>
-<li>-<b>IT 140: Introduction to Scripting</b> - Python-based fundamental concepts of programming</li>
-<li>-<b>IT 145: Foundations in App Development</b> - Foundational programming structures and problem-solving techniques in Java</li>
-<li>-<b>DAD 220: Introduction to Structured Database Environments</b> - Creating structured database environments using SQL</li>
+<li><b>CS 230: Operating Systems</b> - Java-based web application design and evaluation</li>
+<li><b>CS 210: Programming Languages</b> - Object-oriented programming in C++</li>
+<li><b>IT 140: Introduction to Scripting</b> - Python-based fundamental concepts of programming</li>
+<li><b>IT 145: Foundations in App Development</b> - Foundational programming structures and problem-solving techniques in Java</li>
+<li><b>DAD 220: Introduction to Structured Database Environments</b> - Creating structured database environments using SQL</li>
 </ul>
 
 <h1>Technologies & Tools</h1>
 <p>Projects utilize a variety of tools, including:</p>
 
 <ul>
-<li>- Java & Python</li>
-<li>- Git & GitHub</li>
-<li>- SQL/MySQL</li>
-<li>- Eclipse IDE</li>
-<li>- Pycharm</li>
-<li>- REST APIs</li>
-<li>- UML Diagrams</li>
-<li>- Maven</li>
+<li>Java & Python</li>
+<li>Git & GitHub</li>
+<li>SQL/MySQL</li>
+<li>Eclipse IDE</li>
+<li>Pycharm</li>
+<li>REST APIs</li>
+<li>UML Diagrams</li>
+<li>Maven</li>
 </ul>
 
 
