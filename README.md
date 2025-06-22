@@ -17,7 +17,8 @@ Professional Experience:
     - Promoted to Service Desk Supervisor for some years (became ServiceNow system admin)
   - Career change to SaaS Platform Engineer for a couple years
   - Contract as a ServiceNow Developer for a couple years
-  - Currently working at VETS (Veteran Enhanced Technology Solutions) as a Solutions Architect for ServiceNow projects
+  - Worked at VETS (Veteran Enhanced Technology Solutions) as a Solutions Architect for ServiceNow projects
+  - Currently work for the state of CA as a ServiceNow Product Manager
  
  Personal Life:
   - Married :two_men_holding_hands: with 2 dogs 🐶 🐶
