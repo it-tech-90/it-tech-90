@@ -23,6 +23,11 @@
 <li>Git & GitHub</li>
 <li>SQL/MySQL</li>
 <li>Eclipse IDE</li>
+    <ul>
+    <li>Maven</li>
+    <li>Dropwizard</li>
+    <li>Jersey annotations (RESTful APIs)</li>
+    </ul>
 <li>Pycharm</li>
 <li>Visual Studio Code (VSC)</li>
 <li>REST APIs</li>
