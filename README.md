@@ -4,7 +4,7 @@
 <p>Each project is organized in its own repository, with detailed READMEs explaining the scope, tools, and concepts explored.</p>
 
 
-<h1>What You'll Find Here</h1>
+<h1>:bulb:What You'll Find Here</h1>
 <p>This collection includes work from the following courses:</p>
 
 <ul>
@@ -15,7 +15,7 @@
 <li><b>DAD 220: Introduction to Structured Database Environments</b> - Creating structured database environments using SQL</li>
 </ul>
 
-<h1>Technologies & Tools</h1>
+<h1>:wrench:Technologies & Tools</h1>
 <p>Projects utilize a variety of tools, including:</p>
 
 <ul>
