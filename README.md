@@ -13,6 +13,7 @@
 <li><b>IT 140: Introduction to Scripting</b> - Python-based fundamental concepts of programming</li>
 <li><b>IT 145: Foundations in App Development</b> - Foundational programming structures and problem-solving techniques in Java</li>
 <li><b>DAD 220: Introduction to Structured Database Environments</b> - Creating structured database environments using SQL</li>
+<li><b>CS 250: Software Development Lifecycle</b> - Exploring the different stages of the SDLC through different lenses</li>
 </ul>
 
 <h1>:wrench:Technologies & Tools</h1>
