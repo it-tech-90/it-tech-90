@@ -37,9 +37,6 @@
 </ul>
 
 
-<p><i><b>NOTE:</b>This portfolio will continue to grow as I complete more classes and projects</i></p>
-
-
 <!---
 it-tech-90/it-tech-90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
