@@ -23,17 +23,21 @@
 <li>Java, Python, C++</li>
 <li>Git & GitHub</li>
 <li>SQL/MySQL</li>
-<li>Eclipse IDE</li>
+<li>JetBrains IDEs</li>
+    <ul>
+        <li>IntelliJ</li>
+        <li>CLion</li>
+        <li>PyCharm</li>
+        <li>WebStorm</li>
+    </ul>
+<li>Java Tools</li>
     <ul>
     <li>Maven</li>
     <li>Dropwizard</li>
     <li>Jersey annotations (RESTful APIs)</li>
     </ul>
-<li>Pycharm</li>
-<li>Visual Studio Code (VSC)</li>
 <li>REST APIs</li>
 <li>UML Diagrams</li>
-<li>Maven</li>
 </ul>
 
 
